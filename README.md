@@ -9,7 +9,7 @@ This particular design is intended to accommodate 4x 1kg rolls of filament in a 
 ## Design Highlights
 * Capacity for 4x 1.75mm 1kg filament spools with independent filament feeds (enough for an MMU2 or similar multi-filament printing solution).
 * A proper IP65 rated waterproof container.
-* TPU gaskets on all mounting hardware to reduce air / moisture leakage into the ocntainer.
+* TPU gaskets on all mounting hardware to reduce air / moisture leakage into the container.
 * Push to connect fittings for all filament positions. Allows a bowden tube to be connected for easy filament routing and reduced moisture ingress.
 * Can be stacked with additional containers.
 * Room for plenty of dessicant (loose beads or packages) below the filament spools! 
