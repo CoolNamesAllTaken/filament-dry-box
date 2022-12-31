@@ -37,18 +37,18 @@ With maximum utilization of materials (solving the bun-hotdog problem), and igno
 1. Print the parts! I used 40% gyroid infill and 4x perimeter layers on the PETG parts for extra strength, and 100% infill on the TPU parts. Prints are optimized for a Prusa Mk2.5S with a 0.6mm nozzle, but they should come out fine on most printers. Make sure to position the PETG parts with heat-set-insert holes facing up. No support is needed for any of the prints if parts are properly oriented.
 ![Closeup view of TPU gaskets.](images/gaskets.jpg "TPU Gaskets")
 2. Use a soldering iron to push heat set inserts into the 4x `filament_port_inner_plate` and 2x `spool_holder_inner_plate` PETG parts. A temperature of around 650°F works well for this--it may be necessary to use some tweezers to ensure that the heat set inserts are inserted flat and level!
-![Heat set inserts inserted into PETG parts.](images/heat_set_inserts.jpg "Heat Set Inserts Installation").
+![Heat set inserts inserted into PETG parts.](images/heat_set_inserts.jpg "Heat Set Inserts Installation")
 3. Cut a 14.5in section of PVC pipe. A hacksaw or miter saw works great for this!
 ![Spool axle cut to length.](images/spool_axle.jpg "3/4in PVC Spool Axle")
 4. Use a ruler to mark the center of the internal plastic protrusion above the handle. Mark the center on a corresponding `spool_holder_outer_plate`, and align it to the top edge of the box. Align a second spool holder outer plate below the top spool holder, and tape it in place. Use the lower plate's set of holes to mark drill points for the spool holders. Repeat this step on the opposite side of the box.
-![Two spool holders being used to mark drill holes for the spool holder](images/spool_marking.jpg "Spool Holder Mounting Hole Marking").
+![Two spool holders being used to mark drill holes for the spool holder](images/spool_marking.jpg "Spool Holder Mounting Hole Marking")
 5. Mount the spool holder with 4x M3x16mm screws on each side. Insert the gasket between the outer spool mounting plate and the outside of the container.
 6. Drill spool holder M3 mounting holes with a 1/8in drill bit.
 7. Mark holes for the filament ports using a `filament_port_outer_plate`. Drill the M3 mounting holes with a 1/8in drill bit, and drill the center hole oversized with a 9/32in drill bit. Some of the features on the side of the container like the edge of the outer corner chamfer and the inset side section can be used to conveniently index and space out the filament ports.
-![Filament port holes drilled into side of container.](images/filament_port_holes.jpg "Filament Port Drill Holes").
+![Filament port holes drilled into side of container.](images/filament_port_holes.jpg "Filament Port Drill Holes")
 8. Screw the 4x push to connect fittings into the 4x `filament_port_outer_plate` pieces. Make sure that the fittings are snug and flush with the end of the protrusion on the outer plate pieces, but don't tighten them down too much or they will strip the plastic!
 9. Install the filament ports onto the side of the box using 4x M3x12mm screws on each port. The `filament_port_gasket` should be sandwiched between the `filament_port_outer_plate` and the outside wall of the container.
-![Filament ports viewed from the outside.](images/filament_ports_outside.jpg "Filament Ports Outside View").
-![FIlament ports viewed from the inside.](images/filament_ports_inside.jpg "Filament Ports Inside View").
+![Filament ports viewed from the outside.](images/filament_ports_outside.jpg "Filament Ports Outside View")
+![FIlament ports viewed from the inside.](images/filament_ports_inside.jpg "Filament Ports Inside View")
 10. Cut bowden tube(s) to length and install them onto the push-to-connect fittings on the side of the container. The bowden tubes should be fixed at both ends to avoid the dry box being dragged by the print head or extruder.
 ![Box populated with filament spools and bowden tube.](images/box_with_spools.jpg "Filament Box with Stuff!")
