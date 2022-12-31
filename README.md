@@ -35,7 +35,7 @@ With maximum utilization of materials (solving the bun-hotdog problem), and igno
 
 ## Assembly Instructions
 1. Print the parts! I used 40% gyroid infill and 4x perimeter layers on the PETG parts for extra strength, and 100% infill on the TPU parts. Prints are optimized for a Prusa Mk2.5S with a 0.6mm nozzle, but they should come out fine on most printers. Make sure to position the PETG parts with heat-set-insert holes facing up. No support is needed for any of the prints if parts are properly oriented.
-![Closeup view of TPU gaskets.](images/gaskets.jpg "TPU Gaskets").
+![Closeup view of TPU gaskets.](images/gaskets.jpg "TPU Gaskets")
 2. Use a soldering iron to push heat set inserts into the 4x `filament_port_inner_plate` and 2x `spool_holder_inner_plate` PETG parts. A temperature of around 650°F works well for this--it may be necessary to use some tweezers to ensure that the heat set inserts are inserted flat and level!
 ![Heat set inserts inserted into PETG parts.](images/heat_set_inserts.jpg "Heat Set Inserts Installation").
 3. Cut a 14.5in section of PVC pipe. A hacksaw or miter saw works great for this!
